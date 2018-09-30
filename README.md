@@ -4,6 +4,6 @@ A GitHub Android client that uses the GitHub API to search for users given a use
 Build the Android project `Outlab9` using Android Studio. `Gradle` will build it automatically for you.
 Then the project can be run, packaged into an APK, etc.
 
-###Requirements:
+### Requirements:
 1.Requires API level >=23.
 2.Requires Internet permission.
