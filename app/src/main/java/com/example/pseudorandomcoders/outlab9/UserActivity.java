@@ -114,7 +114,7 @@ public class UserActivity extends AppCompatActivity {
                         cal.setTime(new Date(duration));
                         int yy=cal.get(Calendar.YEAR)-1970;
                         int mm=cal.get(Calendar.MONTH);
-                        int dd=cal.get(Calendar.DAY_OF_MONTH);
+                        int dd=cal.get(Calendar.DAY_OF_MONTH)-1;
                         String res=Integer.toString(yy)+" years, "+Integer.toString(mm)+" months, "+Integer.toString(dd)+" days";
                         arr.add(new RepoData(repoinfo.getString("name"),res,repoinfo.getString("description")));
                         //                        long diffInDays = TimeUnit.MILLISECONDS.toDays(duration);
