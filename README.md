@@ -6,4 +6,5 @@ Then the project can be run, packaged into an APK, etc.
 
 ### Requirements:
 1.Requires API level >=23.
+
 2.Requires Internet permission.
