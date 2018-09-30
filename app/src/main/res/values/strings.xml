@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Outlab9</string>
+    <string name="fieldHint">Enter username</string>
+    <string name="buttonText">Search</string>
+</resources>
