@@ -21,6 +21,12 @@ Then the project can be run, packaged into an APK, etc.
 
 On the first screen you will be greeted with a textbox to enter the username you wish to search for. Enter a search query and hit Search.
 
+<img src="https://github.com/ajd12342/GitHub-Android/blob/master/EnterQuery.jpg" width="540" height="927.5" />
+
 The top 30 or so ( i.e. 1 page of) results will be displayed. Click on any username.
 
+<img src="https://github.com/ajd12342/GitHub-Android/blob/master/List.jpg" width="540" height="929.5" />
+
 The user's full name, company, location and a list of all repositories with name, age and description is displayed nicely.
+
+<img src="https://github.com/ajd12342/GitHub-Android/blob/master/RepoInfo.jpg" width="540" height="930" />
